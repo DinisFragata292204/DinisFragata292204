@@ -47,28 +47,60 @@
 
 ### 🧭 Experiências
 <details>
-  <summary>Estágios</summary>
+  <summary>📌 Estágios</summary>
+<br>
   <details>
-    <summary>1º Estágio (150 horas)</summary>
+    <summary>1️⃣ 1º Estágio (150 horas) — Rádio Local</summary>
+<br>
+  Durante o **1º ano** do curso de Programador de Informática realizei o meu estágio numa rádio local, atuando principalmente na área de multimédia.
 
-      No meu 1º ano do meu curso de programador de informática realizei o meu estágio numa rádio local, trabalhei na área de multimídia e edição de som.
+  **Atividades:**
+  - Edição de som
+  - Apoio na produção de conteúdos multimédia
+
+  **Ferramentas utilizadas:**
+  `Audacity` · `Adobe Audition` · `Windows`
+
   </details>
+
   <details>
-    <summary>2º Estágio (150 horas)</summary>
+    <summary>2️⃣ 2º Estágio (150 horas) — Câmara Municipal da Sertã</summary>
+<br>
+  No **2º ano** do curso, estagiei na Câmara Municipal da Sertã, onde tive a oportunidade de aplicar conhecimentos de desenvolvimento e suporte técnico.
 
-    No 2º ano do curso de programador de informática, estagiei na Câmara Municipal da Sertã, tendo desenvolvido uma agenda telefónica Web, atualizando Software e instalando redes locais.
+  **Atividades:**
+  - Desenvolvimento de uma **agenda telefónica Web**
+  - Atualização de software em estações de trabalho
+  - Instalação e configuração de redes locais
+
+  **Tecnologias & Ferramentas:**
+  `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL` · `XAMPP` · `Visual Studio Code`
+
   </details>
+
   <details>
-    <summary>3º Estágio (300 horas)</summary>
+  <summary>3️⃣ 3º Estágio (300 horas) — Dilium SRL (Itália, Erasmus+)</summary>
+<br>
+No **3º ano**, estagiei ao abrigo do programa **Erasmus+** na empresa **Dilium SRL (Itália)**, onde contribuí para projetos reais de desenvolvimento web.
 
-    No meu último ano do curso de programador de informática, estagiei ao abrigo do programa Erasmus+ na Dilium SRL, em Itália, onde atualizei vários Websites que promovem os produtos da empresa e criei 2 Websites.
-  </details>
+**Atividades:**
+- Atualização de vários websites de promoção de produtos da empresa
+- Criação de **2 websites completos** para clientes
+
+**Tecnologias & Ferramentas:**
+`PHP` · `SvelteKit` · `HTML` · `CSS` · `JavaScript` · `MySQL` · `Git` · `GitHub` · `Visual Studio Code`
+
 </details>
+
+
+</details>
+
 <details>
-  <summary>Projetos</summary>
+  <summary>💡 Projetos</summary>
 
-Vazio por enquato.
+  Em breve...
 </details>
+
 <details>
   <summary>📱 Prova de Aptidão Profissional (PAP)</summary>
 
