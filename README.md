@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Dinis Fragata 👋</h1>
 
 <p align="center">
-  Programador de informática
+  Interessado por programação
 </p>
 
 
@@ -45,14 +45,71 @@
 
 ---
 
-### 🧭 Como estou a aprender
+### 🧭 Experiências
 <details>
-  <summary>Plano atual</summary>
+  <summary>Estágios</summary>
+  <details>
+    <summary>1º Estágio (150 horas)</summary>
 
-- Revisão de fundamentos de **algoritmos** e **estruturas de dados**
-- Projetos pequenos semanais (CRUDs, APIs, scripts de automação)
-- Leitura de código de outros devs e refatoração
-- Escrever testes para consolidar conhecimento
+      No meu 1º ano do meu curso de programador de informática realizei o meu estágio numa rádio local, trabalhei na área de multimídia e edição de som.
+  </details>
+  <details>
+    <summary>2º Estágio (150 horas)</summary>
+
+    No 2º ano do curso de programador de informática, estagiei na Câmara Municipal da Sertã, tendo desenvolvido uma agenda telefónica Web, atualizando Software e instalando redes locais.
+  </details>
+  <details>
+    <summary>3º Estágio (300 horas)</summary>
+
+    No meu último ano do curso de programador de informática, estagiei ao abrigo do programa Erasmus+ na Dilium SRL, em Itália, onde atualizei vários Websites que promovem os produtos da empresa e criei 2 Websites.
+  </details>
+</details>
+<details>
+  <summary>Projetos</summary>
+
+Vazio por enquato.
+</details>
+<details>
+  <summary>📱 Prova de Aptidão Profissional (PAP)</summary>
+
+Durante a minha **Prova de Aptidão Profissional (PAP)** desenvolvi uma aplicação móvel e um website para a minha escola.  
+O projeto incluía as seguintes funcionalidades:
+
+- 🔐 **Sistema de autenticação** — login e gestão de utilizadores;  
+- 🍽️ **Registo de senhas de almoço**;  
+- 🚪 **Registo de entradas e saídas**;  
+- 📅 **Gestão de atividades**;
+- 📝 **Registo e consulta de notas**;
+
+📌 **Duração:** 7 meses (part-time).
+🏆 **Resultado:** Projeto concluído com nota máxima, 20 valores.  
+
+---
+
+### ⚙️ Tecnologias Utilizadas  
+<div align="center">
+
+| **Frontend** | **Backend** | **Base de Dados** |
+|--------------|-------------|-------------------|
+| React Native | PHP         | MySQL             |
+
+</div>
+
+---
+
+### 🛠️ Ferramentas de Apoio  
+<div align="center">
+
+`Visual Studio Code` · `XAMPP` · `PHPMyAdmin` · `cron-job.org`  
+`Ngrok` · `Live Share` · `localtunnel` · `SendGrid` · `Expo Go`
+
+</div>
+
+---
+
+📷 Para veres algumas imagens do layout:  
+➡️ [Google Drive - Interfaces do resultado final](https://drive.google.com/drive/folders/1JynohSephgTuHeBbBipc3T81ufNdVewT?usp=drive_link)
+
 </details>
 
 ---
