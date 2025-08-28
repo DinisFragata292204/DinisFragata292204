@@ -46,103 +46,64 @@
 ---
 
 ### 🧭 Experiências
-<details>
-  <summary>📌 Estágios</summary>
-<br>
-  <details>
-    <summary>1️⃣ 1º Estágio (150 horas) — Rádio Local</summary>
-<br>
-  Durante o **1º ano** do curso de Programador de Informática realizei o meu estágio numa rádio local, atuando principalmente na área de multimédia.
 
-  **Atividades:**
-  - Edição de som
-  - Apoio na produção de conteúdos multimédia
+#### 📌 Estágios
 
-  **Ferramentas utilizadas:**
-  `Audacity` · `Adobe Audition` · `Windows`
+**1️⃣ Rádio Local (150 horas) — 1º ano**  
+Atuei principalmente na área de multimédia.  
+- Edição de som  
+- Apoio na produção de conteúdos multimédia  
+**Ferramentas:** `Filmora`
 
-  </details>
+---
 
-  <details>
-    <summary>2️⃣ 2º Estágio (150 horas) — Câmara Municipal da Sertã</summary>
-<br>
-  No **2º ano** do curso, estagiei na Câmara Municipal da Sertã, onde tive a oportunidade de aplicar conhecimentos de desenvolvimento e suporte técnico.
+**2️⃣ Câmara Municipal da Sertã (150 horas) — 2º ano**  
+Aplicação de conhecimentos de desenvolvimento e suporte técnico.  
+- Desenvolvimento de uma **agenda telefónica Web**  
+- Atualização de software em estações de trabalho  
+- Instalação e configuração de redes locais  
+**Tecnologias:** `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL` · `XAMPP` · `Visual Studio Code`
 
-  **Atividades:**
-  - Desenvolvimento de uma **agenda telefónica Web**
-  - Atualização de software em estações de trabalho
-  - Instalação e configuração de redes locais
+---
 
-  **Tecnologias & Ferramentas:**
-  `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL` · `XAMPP` · `Visual Studio Code`
-
-  </details>
-
-  <details>
-  <summary>3️⃣ 3º Estágio (300 horas) — Dilium SRL (Itália, Erasmus+)</summary>
-<br>
-No **3º ano**, estagiei ao abrigo do programa **Erasmus+** na empresa **Dilium SRL (Itália)**, onde contribuí para projetos reais de desenvolvimento web.
-
-**Atividades:**
-- Atualização de vários websites de promoção de produtos da empresa
-- Criação de **2 websites completos** para clientes
-
-**Tecnologias & Ferramentas:**
-`PHP` · `SvelteKit` · `HTML` · `CSS` · `JavaScript` · `MySQL` · `Git` · `GitHub` · `Visual Studio Code`
+**3️⃣ Dilium SRL — Itália (Erasmus+) (300 horas) — 3º ano**  
+Participação em projetos reais de desenvolvimento web.  
+- Atualização de websites de promoção de produtos da empresa  
+- Criação de **2 websites completos** 
+**Tecnologias:** `PHP` · `SvelteKit` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub` · `Visual Studio Code`
 
 </details>
 
 
-</details>
+---
 
-<details>
-  <summary>💡 Projetos</summary>
+### 📱 Prova de Aptidão Profissional (PAP)
 
-  Em breve...
-</details>
-
-<details>
-  <summary>📱 Prova de Aptidão Profissional (PAP)</summary>
-
-Durante a minha **Prova de Aptidão Profissional (PAP)** desenvolvi uma aplicação móvel e um website para a minha escola.  
-O projeto incluía as seguintes funcionalidades:
+Durante a minha **PAP** desenvolvi uma aplicação móvel e um website para a minha escola.  
+O projeto incluiu as seguintes funcionalidades:
 
 - 🔐 **Sistema de autenticação** — login e gestão de utilizadores;  
 - 🍽️ **Registo de senhas de almoço**;  
 - 🚪 **Registo de entradas e saídas**;  
-- 📅 **Gestão de atividades**;
-- 📝 **Registo e consulta de notas**;
+- 📅 **Gestão de atividades**;  
+- 📝 **Registo e consulta de notas**;  
 
-📌 **Duração:** 7 meses (part-time).
-🏆 **Resultado:** Projeto concluído com nota máxima, 20 valores.  
+📌 **Duração:** 7 meses (part-time);  
+🏆 **Resultado:** Nota máxima — 20 valores;  
 
----
+#### ⚙️ Tecnologias Utilizadas
+| **Frontend**   | **Backend** | **Base de Dados** |
+|----------------|-------------|-------------------|
+| React Native   | PHP         | MySQL             |
 
-### ⚙️ Tecnologias Utilizadas  
-<div align="center">
-
-| **Frontend** | **Backend** | **Base de Dados** |
-|--------------|-------------|-------------------|
-| React Native | PHP         | MySQL             |
-
-</div>
+#### 🛠️ Ferramentas de Apoio
+`Visual Studio Code` · `XAMPP` · `PHPMyAdmin`  
+`cron-job.org` · `Ngrok` · `Live Share` · `localtunnel` · `SendGrid` · `Expo Go`
 
 ---
 
-### 🛠️ Ferramentas de Apoio  
-<div align="center">
+📷 [Google Drive - Interfaces do resultado final](https://drive.google.com/drive/folders/1JynohSephgTuHeBbBipc3T81ufNdVewT?usp=drive_link)
 
-`Visual Studio Code` · `XAMPP` · `PHPMyAdmin` · `cron-job.org`  
-`Ngrok` · `Live Share` · `localtunnel` · `SendGrid` · `Expo Go`
-
-</div>
-
----
-
-📷 Para veres algumas imagens do layout:  
-➡️ [Google Drive - Interfaces do resultado final](https://drive.google.com/drive/folders/1JynohSephgTuHeBbBipc3T81ufNdVewT?usp=drive_link)
-
-</details>
 
 ---
 
