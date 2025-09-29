@@ -34,7 +34,7 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects
 
 - **Professional Aptitude Test 2024-2025**  
   Developed as part of the Professional Aptitude Test (PAT). This project demonstrates full-stack development skills, combining React Native for mobile, PHP for backend, and SQL for database management.  
@@ -42,9 +42,7 @@
 
 ---
 
-### 🧭 Experience
-
-#### 📌 Internships
+### 🧭 Experience (Internships)
 
 **1️⃣ Local Radio (150h) — 1st year**  
 Worked mainly in multimedia.  
@@ -71,7 +69,7 @@ Participated in real-world web development projects.
 
 ---
 
-### 📱 Final Project (PAP)
+### 📱 Final Project (Professional Aptitude Test)
 
 Developed a **mobile app** and a **website** for my school with the following features:  
 - 🔐 **Authentication System** — login & user management  
