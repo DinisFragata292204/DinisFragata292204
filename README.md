@@ -1,43 +1,44 @@
 <h1 align="center">👋 Hi, I'm Dinis Fragata</h1>
 
 <p align="center">
-  Passionate about software development and always eager to learn more 🚀
+  Full Stack Developer / 3 Years of Learning & 600+ Hours of Practical Experience
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🎯 Focused on **Cross-platform Development**, **Full-stack Applications**, and **Process Automation**  
-- 🧠 Knowledge in **Web Development**, **Mobile Applications (React Native)**, and **Databases**  
+### 🧑‍💻 About Me / My Skills
+- 🎯 I have Experience in **Cross-platform Development**, **Full-stack Applications**, and **Process Automation**  
+- 🧠 I have Knowledge in **Web Development**, **Mobile Applications (React Native)**, and **Databases**  
 
 ---
 
 ### 🛠️ Tech Stack
-**Languages:**  
-`JavaScript` · `TypeScript` · `Python` · `C++` · `C#` · `MySQL`
 
-**Frontend:**  
-`HTML` · `CSS` · `React Native` · `Svelte`
+**Languages**  
+`JavaScript` · `TypeScript` · `Python` · `C++` · `C#` · `SQL`
 
-**Backend:**  
-`PHP` · `SvelteKit`
+**Frameworks & Libraries**  
+`React Native` · `Svelte` · `SvelteKit`
 
-**Databases:**  
-`PHPMyAdmin`
+**Frontend**  
+`HTML` · `CSS`
 
-**Tools:**  
-`Git` · `GitHub` · `Visual Studio Code` · `Visual Studio 2022`
+**Backend**  
+`PHP`
+
+**Databases**  
+`MySQL`
+
+**Tools**  
+`Git` · `GitHub` · `Visual Studio Code` · `Visual Studio 2022` · `PHPMyAdmin`
 
 ---
 
 ### 📌 Featured Projects
-- **Frontend** — Part of my final high school project (PAP), containing UI screens with different functionalities.  
-  `React Native` `JavaScript` `Bootstrap`  
-  Repo: [PAP React Native](https://github.com/DinisFragata292204/PAP-ReactNative)
 
-- **Backend** — PHP API to handle requests from the frontend, fetch data from MySQL, and send it back to React Native.  
-  `PHP`  
-  Repo: [React Native Backend](https://github.com/DinisFragata292204/reactNative-Backend)
+- **Professional Aptitude Test 2024-2025**  
+  Developed as part of the Professional Aptitude Test (PAT). This project demonstrates full-stack development skills, combining React Native for mobile, PHP for backend, and SQL for database management.  
+  🔗 [GitHub Repository](https://github.com/DinisFragata292204/Professional-Aptitude-Test-2024-2025)
 
 ---
 
