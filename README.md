@@ -1,20 +1,19 @@
-<h1 align="center">Olá, eu sou o Dinis Fragata 👋</h1>
+<h1 align="center">👋 Hi, I'm Dinis Fragata</h1>
 
 <p align="center">
-  Interessado por programação
+  Passionate about software development and always eager to learn more 🚀
 </p>
-
-
-### 🚀 Sobre mim
-- 🎯 Quero aprofundar os meus conhecimentos na área de desenvolvimento Cross-platform, Full-stack e Automação de Processos.
-- 🧠 Conhecimentos: desenvolvimento web, desenvolvimento de aplicações para telemóvel em React Native, bases de dados.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
-<div>
-  
-**Linguagens:**  
+### 🧑‍💻 About Me
+- 🎯 Focused on **Cross-platform Development**, **Full-stack Applications**, and **Process Automation**  
+- 🧠 Knowledge in **Web Development**, **Mobile Applications (React Native)**, and **Databases**  
+
+---
+
+### 🛠️ Tech Stack
+**Languages:**  
 `JavaScript` · `TypeScript` · `Python` · `C++` · `C#` · `MySQL`
 
 **Frontend:**  
@@ -23,90 +22,79 @@
 **Backend:**  
 `PHP` · `SvelteKit`
 
-**Bases de Dados:**  
+**Databases:**  
 `PHPMyAdmin`
 
-**Ferramentas:**  
+**Tools:**  
 `Git` · `GitHub` · `Visual Studio Code` · `Visual Studio 2022`
 
-</div>
-
 ---
 
-### 📌 Projetos em destaque
-- **FrontEnd** — Aqui está a pasta que serve de frontend da minha PAP (Prova de Aptidão Profissional), que contém a interface de vários ecrãs com funções diferentes.  
-  `React Native` `JavaSript` `BootStrap`  
-  Repo: https://github.com/DinisFragata292204/PAP-ReactNative
+### 📌 Featured Projects
+- **Frontend** — Part of my final high school project (PAP), containing UI screens with different functionalities.  
+  `React Native` `JavaScript` `Bootstrap`  
+  Repo: [PAP React Native](https://github.com/DinisFragata292204/PAP-ReactNative)
 
-- **BackEnd** — Aqui está a pasta com o código PHP, que foi usado quando o frontend fazia um pedido ao backend, através do PHP ia buscar os dados ao MySQL e envia para o React Native.  
+- **Backend** — PHP API to handle requests from the frontend, fetch data from MySQL, and send it back to React Native.  
   `PHP`  
-  Repo: https://github.com/DinisFragata292204/reactNative-Backend
-
-
----
-
-### 🧭 Experiências
-
-#### 📌 Estágios
-
-**1️⃣ Rádio Local (150 horas) — 1º ano**  
-Atuei principalmente na área de multimédia.  
-- Edição de som  
-- Apoio na produção de conteúdos multimédia  
-**Ferramentas:** `Filmora`
+  Repo: [React Native Backend](https://github.com/DinisFragata292204/reactNative-Backend)
 
 ---
 
-**2️⃣ Câmara Municipal da Sertã (150 horas) — 2º ano**  
-Aplicação de conhecimentos de desenvolvimento e suporte técnico.  
-- Desenvolvimento de uma **agenda telefónica Web**  
-- Atualização de software em estações de trabalho  
-- Instalação e configuração de redes locais  
-**Tecnologias:** `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL` · `XAMPP` · `Visual Studio Code`
+### 🧭 Experience
+
+#### 📌 Internships
+
+**1️⃣ Local Radio (150h) — 1st year**  
+Worked mainly in multimedia.  
+- Sound editing  
+- Supporting multimedia content production  
+**Tools:** `Filmora`
 
 ---
 
-**3️⃣ Dilium SRL — Itália (Erasmus+) (300 horas) — 3º ano**  
-Participação em projetos reais de desenvolvimento web.  
-- Atualização de websites de promoção de produtos da empresa  
-- Criação de **2 websites completos** 
-**Tecnologias:** `PHP` · `SvelteKit` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub` · `Visual Studio Code`
-
-</details>
-
+**2️⃣ Sertã City Hall (150h) — 2nd year**  
+Applied development and technical support knowledge.  
+- Developed a **Web Phone Directory**  
+- Software updates on workstations  
+- Local network installation & configuration  
+**Tech:** `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL` · `XAMPP` · `VS Code`
 
 ---
 
-### 📱 Prova de Aptidão Profissional (PAP)
+**3️⃣ Dilium SRL — Italy (Erasmus+) (300h) — 3rd year**  
+Participated in real-world web development projects.  
+- Updated company product promotion websites  
+- Built **2 complete websites**  
+**Tech:** `PHP` · `SvelteKit` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub` · `VS Code`
 
-Durante a minha **PAP** desenvolvi uma aplicação móvel e um website para a minha escola.  
-O projeto incluiu as seguintes funcionalidades:
+---
 
-- 🔐 **Sistema de autenticação** — login e gestão de utilizadores;  
-- 🍽️ **Registo de senhas de almoço**;  
-- 🚪 **Registo de entradas e saídas**;  
-- 📅 **Gestão de atividades**;  
-- 📝 **Registo e consulta de notas**;  
+### 📱 Final Project (PAP)
 
-📌 **Duração:** 7 meses (part-time);  
-🏆 **Resultado:** Nota máxima — 20 valores;  
+Developed a **mobile app** and a **website** for my school with the following features:  
+- 🔐 **Authentication System** — login & user management  
+- 🍽️ **Lunch Ticket Registration**  
+- 🚪 **Entry & Exit Tracking**  
+- 📅 **Activity Management**  
+- 📝 **Grades Recording & Viewing**  
 
-#### ⚙️ Tecnologias Utilizadas
-| **Frontend**   | **Backend** | **Base de Dados** |
-|----------------|-------------|-------------------|
-| React Native   | PHP         | MySQL             |
+📌 **Duration:** 7 months (part-time)  
+🏆 **Grade:** Maximum score (20/20)  
 
-#### 🛠️ Ferramentas de Apoio
-`Visual Studio Code` · `XAMPP` · `PHPMyAdmin`  
+#### ⚙️ Tech Used
+| **Frontend**   | **Backend** | **Database** |
+|----------------|-------------|--------------|
+| React Native   | PHP         | MySQL        |
+
+#### 🛠️ Supporting Tools
+`VS Code` · `XAMPP` · `PHPMyAdmin`  
 `cron-job.org` · `Ngrok` · `Live Share` · `localtunnel` · `SendGrid` · `Expo Go`
 
----
-
-📷 [Google Drive - Interfaces do resultado final](https://drive.google.com/drive/folders/1JynohSephgTuHeBbBipc3T81ufNdVewT?usp=drive_link)
-
+📷 [See the final interfaces on Google Drive](https://drive.google.com/drive/folders/1JynohSephgTuHeBbBipc3T81ufNdVewT?usp=drive_link)
 
 ---
 
-### 📫 Contacto
-- Email: **dinisfragata2@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/dinis-fragata/
+### 📫 Contact
+- 📧 Email: **dinisfragata2@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/dinis-fragata](https://www.linkedin.com/in/dinis-fragata/)
