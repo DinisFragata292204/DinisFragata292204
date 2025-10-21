@@ -1,33 +1,21 @@
-<h1 align="center">👋 Hi, I'm Dinis Fragata</h1>
+<h1 align="center">Dinis Fragata</h1>
 
-<p align="center">
-  Full Stack Developer / 3 Years of Learning & 600+ Hours of Practical Experience
-</p>
+<p align="center"><b>Full Stack Developer • Web & Mobile Systems</b></p>
+<p align="center"><i>"Make it happen."</i></p>
 
 ---
 
-### 🧑‍💻 About Me / My Skills
-- 🎯 I have Experience in **Cross-platform Development**, **Full-stack Applications**, and **Process Automation**  
-- 🧠 I have Knowledge in **Web Development**, **Mobile Applications (React Native)**, and **Databases**  
+### ⚡ What I Do
+🧠 Build cross-platform apps · 🛠️ Automate workflows · 💻 Design clean, scalable systems
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**  
-`JavaScript` · `TypeScript` · `Python` · `C++` · `C#` · `SQL`
-
-**Frameworks & Libraries**  
-`React Native` · `Svelte` · `SvelteKit`
-
-**Frontend**  
-`HTML` · `CSS`
-
-**Backend**  
-`PHP`
-
-**Databases**  
-`MySQL`
+Languages & Frameworks
+🧩 Main: `TypeScript`, `SvelteKit`, `React Native`
+⚙️ Backend: `PHP`, `SQL`
+🧠 Also familiar with: `Python`, `C++`, `C#`
 
 **Tools**  
 `Git` · `GitHub` · `Visual Studio Code` · `Visual Studio 2022` · `PHPMyAdmin`
@@ -37,8 +25,14 @@
 ### 📌 Projects
 
 - **Professional Aptitude Test 2024-2025**  
-  Developed as part of the Professional Aptitude Test (PAT). This project demonstrates full-stack development skills, combining React Native for mobile, PHP for backend, and SQL for database management.  
-  🔗 [GitHub Repository](https://github.com/DinisFragata292204/Professional-Aptitude-Test-2024-2025)
+  A 7-month project combining mobile & web — built a real system for school management (logins, lunch tickets, attendance, and grades).
+  🏗️ Stack: React Native · PHP · MySQL  
+  🏆 Scored 20/20  
+  🔗 [GitHub Repository](https://github.com/DinisFragata292204/Professional-Aptitude-Test-2024-2025) <br>
+- **Data automation reports**  
+  Tool for generating business sales reports from an Excel or Google Sheets file, providing insights into a company’s performance through automated data analysis, charts, and PDF generation.
+  🏗️ Stack: Python  
+  🔗 [GitHub Repository](https://github.com/DinisFragata292204/Data-automation-reports)
 
 ---
 
@@ -61,36 +55,10 @@ Applied development and technical support knowledge.
 
 ---
 
-**3️⃣ Dilium SRL — Italy (Erasmus+) (300h) — 3rd year**  
-Participated in real-world web development projects.  
-- Updated company product promotion websites  
-- Built **2 complete websites**  
-**Tech:** `PHP` · `SvelteKit` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub` · `VS Code`
-
----
-
-### 📱 Final Project (Professional Aptitude Test)
-
-Developed a **mobile app** and a **website** for my school with the following features:  
-- 🔐 **Authentication System** — login & user management  
-- 🍽️ **Lunch Ticket Registration**  
-- 🚪 **Entry & Exit Tracking**  
-- 📅 **Activity Management**  
-- 📝 **Grades Recording & Viewing**  
-
-📌 **Duration:** 7 months (part-time)  
-🏆 **Grade:** Maximum score (20/20)  
-
-#### ⚙️ Tech Used
-| **Frontend**   | **Backend** | **Database** |
-|----------------|-------------|--------------|
-| React Native   | PHP         | MySQL        |
-
-#### 🛠️ Supporting Tools
-`VS Code` · `XAMPP` · `PHPMyAdmin`  
-`cron-job.org` · `Ngrok` · `Live Share` · `localtunnel` · `SendGrid` · `Expo Go`
-
-📷 [See the final interfaces on Google Drive](https://drive.google.com/drive/folders/1JynohSephgTuHeBbBipc3T81ufNdVewT?usp=drive_link)
+**3️⃣ Dilium SRL (Italy, Erasmus+) (300h) — 3rd year**  
+Built and maintained live company websites — focused on speed, clarity, and responsive UX.
+💡 Learned to ship fast, debug under pressure, and write maintainable code used across different projects.
+**Tech:** `PHP` · `SvelteKit` · `JavaScript` · `Git`
 
 ---
 
