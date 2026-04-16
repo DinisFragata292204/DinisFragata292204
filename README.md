@@ -5,40 +5,36 @@
 
 ---
 
-### ⚡ What I Do
-🧠 Build cross-platform apps · 🛠️ Automate workflows · 💻 Design clean, scalable systems
+### What I Like to do
+- Automate manual processes.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-Languages & Frameworks
-🧩 Main: `TypeScript`, `SvelteKit`, `React Native`
-⚙️ Backend: `PHP`, `SQL`
-🧠 Also familiar with: `Python`, `C++`, `C#`
+Main: `Python`, `React Native`
 
-**Tools**  
-`Git` · `GitHub` · `Visual Studio Code` · `Visual Studio 2022` · `PHPMyAdmin`
+Tools:  `GitHub`, `Visual Studio Code`
 
 ---
 
-### 📌 Projects
+### Previus Projects
 
 - **Professional Aptitude Test 2024-2025**  
-  A 7-month project combining mobile & web — built a real system for school management (logins, lunch tickets, attendance, and grades).
-  🏗️ Stack: React Native · PHP · MySQL  
-  🏆 Scored 20/20  
-  🔗 [GitHub Repository](https://github.com/DinisFragata292204/Professional-Aptitude-Test-2024-2025) <br>
+  A 7-month project that includes mobile & web application — where I had built propose to a system system for school management (logins, lunch tickets, attendance, and grades).
+   Stack: React Native · PHP · MySQL  
+   _**Scored 20/20**_  
+  🔗 [GitHub Repository](https://github.com/DinisFragata292204/Professional-Aptitude-Test-2024-2025) <br><br>
 - **Data automation reports**  
-  Tool for generating business sales reports from an Excel or Google Sheets file, providing insights into a company’s performance through automated data analysis, charts, and PDF generation.
-  🏗️ Stack: Python  
+  Tool for generating reports from an Excel or Google Sheets file, creating charts, and PDF generation. My goal with this project was to go deeper in PDF and chart tools, while possible creating a usefull tool.
+   Stack: Python
   🔗 [GitHub Repository](https://github.com/DinisFragata292204/Data-automation-reports)
 
 ---
 
-### 🧭 Experience (Internships)
+### Experience (Internships)
 
-**1️⃣ Local Radio (150h) — 1st year**  
+**1️⃣ Local Radio (150h)**  
 Worked mainly in multimedia.  
 - Sound editing  
 - Supporting multimedia content production  
@@ -46,7 +42,7 @@ Worked mainly in multimedia.
 
 ---
 
-**2️⃣ Sertã City Hall (150h) — 2nd year**  
+**2️⃣ Sertã City Hall (150h)**  
 Applied development and technical support knowledge.  
 - Developed a **Web Phone Directory**  
 - Software updates on workstations  
@@ -55,13 +51,13 @@ Applied development and technical support knowledge.
 
 ---
 
-**3️⃣ Dilium SRL (Italy, Erasmus+) (300h) — 3rd year**  
+**3️⃣ Dilium SRL (Italy, Erasmus+) (300h)**  
 Built and maintained live company websites — focused on speed, clarity, and responsive UX.
 💡 Learned to ship fast, debug under pressure, and write maintainable code used across different projects.
 **Tech:** `PHP` · `SvelteKit` · `JavaScript` · `Git`
 
 ---
 
-### 📫 Contact
-- 📧 Email: **dinisfragata2@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/dinis-fragata](https://www.linkedin.com/in/dinis-fragata/)
+### Contact
+-  Email: **dinisfragata2@gmail.com**  
+-  LinkedIn: [linkedin.com/in/dinis-fragata](https://www.linkedin.com/in/dinis-fragata/)
