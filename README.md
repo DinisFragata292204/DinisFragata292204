@@ -148,13 +148,3 @@ Built and maintained live company websites — focused on speed, clarity, and re
 ### Contact
 -  Email: **dinis@dinisfragata.pt**  
 -  LinkedIn: [linkedin.com/in/dinis-fragata](https://www.linkedin.com/in/dinis-fragata/)
-
----
-
-## GitHub Stats
-
-[stats badge]
-
-[streak badge]
-
----
