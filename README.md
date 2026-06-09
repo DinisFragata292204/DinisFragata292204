@@ -1,34 +1,121 @@
 <h1 align="center">Dinis Fragata</h1>
 
-<p align="center"><b>Full Stack Developer • Web & Mobile Systems</b></p>
-<p align="center"><i>"Make it happen."</i></p>
+<p align="center">
+  1300+ hours of internships • AI Projects • Erasmus Experience
+</p>
+
+<p align="center">
+  <i>Make it happen.</i>
+</p>
 
 ---
 
-### What I Like to do
-- Automate manual processes.
+## Highlights
+
+- 🎯 **1300+** hours of professional internships
+- 🤖 Built **AI**-powered automation systems using **GPT** models
+- 🌍 Erasmus+ internship at **Dilium SRL** and **Neural AI** (Italy & Malta)
+- 📱 Built full-stack web and mobile applications
+- 🏆 Professional Aptitude Project best grade (**20/20**)
+- 🚀 **9 client projects** delivered during AI internship
 
 ---
 
-### Tech Stack
+## About Me
 
-Main: `Python`, `React Native`
+I'm an 18-year-old software developer focused on AI automation, full-stack development and building practical solutions to real-world problems.
 
-Tools:  `GitHub`, `Visual Studio Code`
+Currently exploring AI-powered products, automation systems and trying SaaS opportunities.
 
 ---
 
-### Previus Projects
+## Currently Building
 
-- **Professional Aptitude Test 2024-2025**  
-  A 7-month project that includes mobile & web application — where I had built propose to a system system for school management (logins, lunch tickets, attendance, and grades).
-   Stack: React Native · PHP · MySQL  
-   _**Scored 20/20**_  
-  🔗 [GitHub Repository](https://github.com/DinisFragata292204/Professional-Aptitude-Test-2024-2025) <br><br>
-- **Data automation reports**  
-  Tool for generating reports from an Excel or Google Sheets file, creating charts, and PDF generation. My goal with this project was to go deeper in PDF and chart tools, while possible creating a usefull tool.
-   Stack: Python
-  🔗 [GitHub Repository](https://github.com/DinisFragata292204/Data-automation-reports)
+- Project-Hotel-With-AI
+- AI-powered automation tools
+- Full-stack web applications
+
+---
+
+## Neural AI — AI Developer Intern (700+h)
+
+Worked across 9 client projects involving:
+
+- LLM integrations (gpt-4o-mini)
+- Web scraping (Apify)
+- Data extraction pipelines (From **Airdna** API)
+- AI-powered business automation
+- API integrations
+- Google Sheets automations
+
+Tech:
+`Python` · `OpenAI API` · `Apify` · `Google Sheets`
+
+### Featured Projects
+
+Built an AI-powered data extraction pipeline capable of collecting and enriching information from thousands of hotels.
+
+Achievements:
+
+- Extracted data from **12,000+** hotels worldwide
+- Integrated **Apify** scrapers, and save data
+- Automated Google Sheets workflows
+- Used GPT-4o-mini to analyze hotel websites
+- Extracted amenities, accessibility, breakfast information and evidence from websites
+
+---
+
+## Personal Projects
+
+### Project-Hotel-With-AI (In Progress)
+
+AI-powered customer support assistant designed for hotels.
+
+Features:
+
+- Instant guest support
+- Multilingual responses
+- FAQ automation
+- Booking assistance
+- Modern interface
+
+### Impact
+
+- Explored a potential SaaS solution for the hospitality industry
+- Designed to reduce repetitive guest support requests
+- Improved response speed and customer experience
+
+Tech:
+`React` · `OpenAI API` · `Vercel`
+
+Links:
+- [🔗 Live demo]([url](https://hotel-chatbot-jade.vercel.app/))
+- [🔗 GitHub Repo](https://github.com/DinisFragata292204/hotel-chatbot)
+
+---
+
+### School Management Platform (20/20)
+
+7-month full-stack project developed as Professional Aptitude Test.
+
+#### Features:
+
+- Authentication system
+- Attendance management
+- Lunch ticket management
+- Student grades
+- Mobile + web interface
+
+#### Acquired Learnings:
+
+- Build mobile and web applications
+- Encrypt data and user managements
+- Implement attendance tracking system
+- Creat lunch ticket management
+- Develop student grading features
+
+Tech:
+`React Native` · `Expo` · `PHP` · `MySQL`
 
 ---
 
@@ -59,5 +146,15 @@ Built and maintained live company websites — focused on speed, clarity, and re
 ---
 
 ### Contact
--  Email: **dinisfragata2@gmail.com**  
+-  Email: **dinis@dinisfragata.pt**  
 -  LinkedIn: [linkedin.com/in/dinis-fragata](https://www.linkedin.com/in/dinis-fragata/)
+
+---
+
+## GitHub Stats
+
+[stats badge]
+
+[streak badge]
+
+---
