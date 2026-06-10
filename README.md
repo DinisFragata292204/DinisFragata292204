@@ -12,12 +12,21 @@
 
 ## Highlights
 
-- 🎯 **1300+** hours of professional internships
-- 🤖 Built **AI**-powered automation systems using **GPT** models
-- 🌍 Erasmus+ internship at **Dilium SRL** and **Neural AI** (Italy & Malta)
-- 📱 Built full-stack web and mobile applications
-- 🏆 Professional Aptitude Project best grade (**20/20**)
-- 🚀 **9 client projects** delivered during AI internship
+- **1300+** hours of professional internships
+- Built **AI**-powered automation systems using **GPT** models
+- Erasmus+ internship at **Dilium SRL** and **Neural AI** (Italy & Malta)
+- Built full-stack web and mobile applications
+- Professional Aptitude Project best grade (**20/20**)
+- **9 client projects** delivered during AI internship
+
+---
+
+### What I Can Help Businesses With
+- 🤖 AI Chatbots
+- 📈 Business Process Automation
+- 🎲 Data Extraction Pipelines
+- 🛜 API Integrations
+- 🎯 Custom AI Solutions
 
 ---
 
@@ -31,9 +40,44 @@ Currently exploring AI-powered products, automation systems and trying SaaS oppo
 
 ## Currently Building
 
-- Project-Hotel-With-AI
+- [Project-Hotel-With-AI](https://github.com/DinisFragata292204/hotel-chatbot)
+- Personal Portfolio
 - AI-powered automation tools
-- Full-stack web applications
+
+---
+
+## Personal Projects
+
+### Project-Hotel-With-AI (In Progress)
+
+AI-powered customer support assistant designed for hotels.
+
+
+
+https://github.com/user-attachments/assets/16e8cd82-addc-46a6-9e61-ae4e2778d817
+
+
+
+Features:
+
+- Instant guest support
+- Multilingual responses
+- FAQ automation
+- Booking assistance
+- Modern interface
+
+### Impact
+
+- Explored a potential SaaS solution for the hospitality industry
+- Designed to reduce repetitive guest support requests
+- Improved response speed and customer experience
+
+Tech:
+`React` · `OpenAI API` · `Vercel`
+
+Links:
+- [🔗 Live demo](https://hotel-chatbot-jade.vercel.app/)
+- [🔗 GitHub Repo](https://github.com/DinisFragata292204/hotel-chatbot)
 
 ---
 
@@ -65,35 +109,6 @@ Achievements:
 
 ---
 
-## Personal Projects
-
-### Project-Hotel-With-AI (In Progress)
-
-AI-powered customer support assistant designed for hotels.
-
-Features:
-
-- Instant guest support
-- Multilingual responses
-- FAQ automation
-- Booking assistance
-- Modern interface
-
-### Impact
-
-- Explored a potential SaaS solution for the hospitality industry
-- Designed to reduce repetitive guest support requests
-- Improved response speed and customer experience
-
-Tech:
-`React` · `OpenAI API` · `Vercel`
-
-Links:
-- [🔗 Live demo]([url](https://hotel-chatbot-jade.vercel.app/))
-- [🔗 GitHub Repo](https://github.com/DinisFragata292204/hotel-chatbot)
-
----
-
 ### School Management Platform (20/20)
 
 7-month full-stack project developed as Professional Aptitude Test.
@@ -116,32 +131,6 @@ Links:
 
 Tech:
 `React Native` · `Expo` · `PHP` · `MySQL`
-
----
-
-### Experience (Internships)
-
-**1️⃣ Local Radio (150h)**  
-Worked mainly in multimedia.  
-- Sound editing  
-- Supporting multimedia content production  
-**Tools:** `Filmora`
-
----
-
-**2️⃣ Sertã City Hall (150h)**  
-Applied development and technical support knowledge.  
-- Developed a **Web Phone Directory**  
-- Software updates on workstations  
-- Local network installation & configuration  
-**Tech:** `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL` · `XAMPP` · `VS Code`
-
----
-
-**3️⃣ Dilium SRL (Italy, Erasmus+) (300h)**  
-Built and maintained live company websites — focused on speed, clarity, and responsive UX.
-💡 Learned to ship fast, debug under pressure, and write maintainable code used across different projects.
-**Tech:** `PHP` · `SvelteKit` · `JavaScript` · `Git`
 
 ---
 
